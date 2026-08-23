@@ -30,4 +30,6 @@ MODEL_BY_CHAR: dict[str, str] = {
     "e": "AirPods Pro",
     "4": "AirPods Pro 2",
     "a": "AirPods Max",
+    "d": "Powerbeats Pro 2",
+    "b": "AirPods 4 Pro",
 }
